@@ -1,4 +1,4 @@
-temperature = 50
+temperature = 95
 
 if temperature > 80:
     print("It's too hot!")
